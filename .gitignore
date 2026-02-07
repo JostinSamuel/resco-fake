@@ -11,10 +11,6 @@ yarn-error.log*
 # Dependency directories
 jspm_packages/
 
-# Build output
-.evershop/build/
-dist/
-
 # OS files
 .DS_Store
 Thumbs.db
